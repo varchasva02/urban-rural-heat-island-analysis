@@ -97,8 +97,10 @@ Five plots were created using `matplotlib` and `seaborn`:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/varchasva02/Urban-Heat-Island-Delhi.git
-   cd Urban-Heat-Island-Delhi
+   git clone https://github.com/varchasva02/urban-rural-heat-island-analysis
+
+   cd urban-rural-heat-island-analysis
+
    ```
 
 2. **Open in Google Colab**
